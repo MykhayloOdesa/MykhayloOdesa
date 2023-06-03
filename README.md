@@ -1,4 +1,4 @@
-![Account_Background](https://github.com/MykhayloOdesa/MykhayloOdesa/blob/main/Network_FS.jpg)
+![Account_Background](https://github.com/MykhayloOdesa/MykhayloOdesa/blob/main/Network_FSDev.jpg)
 
 ### Hi there 👋
 
